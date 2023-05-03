@@ -1,7 +1,7 @@
-Привет, меня зовут Макс Смирнов. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Max Smirnov
+===================================================================================================================================
 
-* ✉️ Вы можете связаться со мной по адресу [smirnovmax01@gmail.com](mailto:smirnovmax01@gmail.com)[](mailto:smirnovmax01@gmail.com)
+* ✉️  You can contact me at [smirnovmax01@gmail.com](mailto:smirnovmax01@gmail.com)
 
 ### Skills
 
@@ -22,4 +22,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MaxSmirnov01"><img src="https://github-readme-stats.vercel.app/api?username=MaxSmirnov01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="MaxSmirnov01's GitHub stats" /></a>
+<a href="http://www.github.com/MaxSmirnov01"><img src="https://github-readme-stats.vercel.app/api?username=MaxSmirnov01&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="MaxSmirnov01's GitHub stats" /></a>
